@@ -1,35 +1,101 @@
-# Daraz
-Master Copy Page on Daraz. This page is daraz clone page.just educational purpos made this page.
+# 🛒 Daraz Clone - E-commerce Website
 
-Useing :
---------
-html,css,javascript,jQuery plugin
+A responsive **Daraz-inspired E-commerce Website Clone** built using **HTML, CSS, and JavaScript**. This project recreates the design and user interface of a popular online shopping platform for learning and frontend development practice.
 
-File list :
------------
-editorconfig
-gitattributes
-gitignore
-404.html
-LICENSE.txt
-README.md
-css/hover.css
-css/style.css
-favicon.ico
-icon.png
-icon.svg
-img/73cc73e7-5cd5-4841-b52e-cde83123ff3b_BD-1920-500.gif_2200x2200q80.gif
-img/Wallpaper.jpeg
+> **Disclaimer:** This project is created for educational purposes only. It is not affiliated with or endorsed by Daraz.
+
+---
+
+## ✨ Features
+
+* ✅ Modern eCommerce homepage design
+* ✅ Responsive layout
+* ✅ Navigation menu
+* ✅ Product showcase sections
+* ✅ Shopping interface design
+* ✅ Banner and category sections
+* ✅ Clean and beginner-friendly code
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/iamdeveloperrayhan/daraz-clone.git
+```
+
+### Open Project
+
+Navigate to the project folder and open:
+
+```text
 index.html
-js/app.js
-js/vendor/.gitkeep
-package.json
-robots.txt
-site.webmanifest
-webpack.common.js
-webpack.config.dev.js
-webpack.config.prod.js
+```
 
-Page Link :
------------
-view Page : https://devloperrayhan.github.io/Daraz/
+in your browser.
+
+---
+
+## 📂 Project Structure
+
+```text
+daraz-clone/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+├── README.md
+└── ........
+```
+
+---
+
+## 🎯 Learning Goals
+
+This project helped me practice:
+
+* Frontend UI development
+* Responsive web design
+* HTML structure
+* CSS styling
+* JavaScript basics
+* Creating real-world website layouts
+
+---
+
+## 👨‍💻 Author
+
+**Developer Rayhan**
+
+GitHub:
+https://github.com/iamdeveloperrayhan
+
+Linkedin:
+https://linkedin.com/in/iamdeveloperrayhan
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **⭐ Star** on GitHub.
+
+Your support motivates me to create more projects and share my learning journey. 🚀
+
+---
+
+## 📄 License
+
+This project is for educational purposes only.
